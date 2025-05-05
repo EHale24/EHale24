@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EHale24
+- 👋 Hi, I’m Evelyn!
 - 👀 I’m interested in networking and expanding my knowledge of GitHub and Cloud Computing
 - 🌱 I’m currently learning AWS and coding
 - 💞️ I’m looking to collaborate on improving projects on GitHub
